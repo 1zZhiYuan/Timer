@@ -18,5 +18,8 @@ __pycache__/
 Thumbs.db
 .DS_Store
 
+# Claude
+.claude/
+
 # Timer data (user local database)
 # ~/.timer/  is in user home, not here
